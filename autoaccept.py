@@ -1,4 +1,4 @@
-#PROGRAMMED BY SIMON | 13.06.2021 - 23.01.2022
+#PROGRAMMED BY SIMON | 23.01.2022
 import pyautogui
 import time
 from threading import Thread
